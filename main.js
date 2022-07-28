@@ -109,6 +109,6 @@ div1.innerHTML = projects1
       MORE <img src="${project1.Image1[6]}" alt="arrow">
     </button></li>
     </ul>
-    </section>`
+    </section>`,
   )
   .join('');
